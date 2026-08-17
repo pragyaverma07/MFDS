@@ -1,2 +1,0 @@
-# MFDS
-Assignment Questions
